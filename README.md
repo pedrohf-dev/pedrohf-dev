@@ -24,7 +24,7 @@ _Atualmente Aprendendo:_
 🔹 [**Lista de Tarefas**](https://github.com/pedrohf-dev/lista-de-tarefas)  
 > Um sistema de gerenciamento de tarefas com Node.js, Express e MongoDB.
 
-🔹 [**Outro Projeto**](https://github.com/pedrohf-dev/login-page)  
+🔹 [**Página de login (Incompleto)**](https://github.com/pedrohf-dev/login-page)  
 > Uma página de login e criação de contas utilizando de JWT's com Node.js, Express e MongoDB.
 
 Veja mais projetos em [meu GitHub](https://github.com/pedrohf-dev?tab=repositories).
