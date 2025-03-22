@@ -1,10 +1,10 @@
-# 👋 Olá, eu sou o Pedro!
+# Olá.
 
 Sou um desenvolvedor apaixonado por tecnologia e programação. Sempre em busca de aprender novas tecnologias e criar projetos inovadores.
 
 ---
 
-## 🚀 Tecnologias & Ferramentas
+## Tecnologias & Ferramentas
 
 💻 **Linguagens & Frameworks**  
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)  
@@ -33,10 +33,10 @@ Veja mais projetos em [meu GitHub](https://github.com/pedrohf-dev?tab=repositori
 
 ## 📫 Contato
 
-📧 **Email:** pedrohf.dev@email.com  
-🐙 **GitHub:** [pedrohf-dev](https://github.com/pedrohf-dev)
+**Email:** pedrohf.dev@email.com  
+**GitHub:** [pedrohf-dev](https://github.com/pedrohf-dev)
 
-💡 Sempre aberto a novas oportunidades e colaborações!
+Sempre aberto a novas oportunidades e colaborações!
 
 ---
 
