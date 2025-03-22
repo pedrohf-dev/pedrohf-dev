@@ -33,7 +33,7 @@ Veja mais projetos em [meu GitHub](https://github.com/pedrohf-dev?tab=repositori
 
 ## Contato
 
-**Email:** pedrohf.dev@email.com  
+**Email:** pedrocontahf@egmail.com  
 **GitHub:** [pedrohf-dev](https://github.com/pedrohf-dev)
 
 Sempre aberto a novas oportunidades e colaborações!
