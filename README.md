@@ -11,6 +11,11 @@ Sou um desenvolvedor apaixonado por tecnologia e programação. Sempre em busca 
 | ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) | ![Express](https://img.shields.io/badge/-Express-000000?style=flat-square&logo=express&logoColor=white) | ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white) |
 | ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white) | ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white) | ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white) |
 
+---
+
+_Atualmente Aprendendo:_
+
+🔹 **SQL** – Desenvolvendo minhas habilidades em bancos de dados relacionais.  
 
 ---
 
@@ -26,7 +31,7 @@ Veja mais projetos em [meu GitHub](https://github.com/pedrohf-dev?tab=repositori
 
 ---
 
-## 📫 Contato
+## Contato
 
 **Email:** pedrohf.dev@email.com  
 **GitHub:** [pedrohf-dev](https://github.com/pedrohf-dev)
