@@ -24,8 +24,8 @@ Sou um desenvolvedor apaixonado por tecnologia e programação. Sempre em busca 
 🔹 [**Lista de Tarefas**](https://github.com/pedrohf-dev/lista-de-tarefas)  
 > Um sistema de gerenciamento de tarefas com Node.js, Express e MongoDB.
 
-🔹 [**Outro Projeto**](https://github.com/pedrohf-dev/outro-projeto)  
-> Descrição breve do projeto.
+🔹 [**Outro Projeto**](https://github.com/pedrohf-dev/login-page)  
+> Uma página de login e criação de contas utilizando de JWT's com Node.js, Express e MongoDB.
 
 Veja mais projetos em [meu GitHub](https://github.com/pedrohf-dev?tab=repositories).
 
