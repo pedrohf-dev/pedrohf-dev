@@ -15,7 +15,7 @@ Sou um desenvolvedor apaixonado por tecnologia e programação. Sempre em busca 
 
 _Atualmente Aprendendo:_
 
-🔹 **SQL** – Desenvolvendo minhas habilidades em bancos de dados relacionais.  
+🔹 **PostgreSQL** – Desenvolvendo minhas habilidades em bancos de dados relacionais.  
 
 ---
 
