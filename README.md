@@ -1,6 +1,6 @@
 # Olá.
 
-Sou um desenvolvedor apaixonado por tecnologia e programação. Sempre em busca de aprender novas tecnologias e criar projetos inovadores.
+Sou um desenvolvedor apaixonado por tecnologia e programação. Em busca de aprender novas tecnologias e criar projetos que construam uma boa base de conhecimento sólido, habilidades práticas e que contribuam para minha evolução contínua na área de desenvolvimento.
 
 ---
 
